@@ -1,4 +1,3 @@
-// src/hooks/useFirebaseData.js
 import { useState, useEffect } from 'react';
 import { ref, get, set } from 'firebase/database';
 import { db } from '../pages/firebase';
